@@ -1,0 +1,22 @@
+From hmatuschek at gmx.net  Fri Feb  3 22:32:08 2006
+From: hmatuschek at gmx.net (Hannes Matuschek)
+Date: Fri, 03 Feb 2006 22:32:08 +0100
+Subject: [Pplt-help] test mail
+Message-ID: <43E3CBD8.7060909@gmx.net>
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+test test test
+
+Hannes Matuschek
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.2 (GNU/Linux)
+Comment: Using GnuPG with Mozilla - http://enigmail.mozdev.org
+
+iD8DBQFD48vYRYiEO2+lW+IRAjSzAJ95GU2pFP5uDmIlj+wpJ98a18kUjgCfU/x7
+/Fatmh6/6r0p4bEp+BV+GQk=
+=CwpG
+-----END PGP SIGNATURE-----
+
+

